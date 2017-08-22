@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Faisal\.android\build-cache\181782472fc1960fc3e697e1c3ce2699738636c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\NATIVE\android-vision-master\visionSamples\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_750cf701389fa901e928904ff26ac54132832cde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\NATIVE\android-vision-master\visionSamples\barcode-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9715ab0025c73f68730446c4ade7ae32c11b0a1b">
+        <dex dex="D:\NATIVE\android-vision-master\visionSamples\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6fe7d79a7475ca4c74932cf412e79d14e435770e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Faisal\.android\build-cache\f55fe7e842efaad3d753c2848b6e35a4c2044a4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="D:\NATIVE\android-vision-master\visionSamples\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a9892136db8c90151841416e53249d6af804b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Faisal\.android\build-cache\0422f4e29674a9037d2322da9aac3146e888e1b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\NATIVE\android-vision-master\visionSamples\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8887b9e6264f5bea903b498318e5f4c69f8c7952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Faisal\.android\build-cache\564cbae203ee7bc2ec2b64f2836db9780a83d851\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\NATIVE\android-vision-master\visionSamples\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f297dbb90bc9d01faf06fbc3f0a6c89044431d79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\NATIVE\android-vision-master\visionSamples\barcode-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\NATIVE\android-vision-master\visionSamples\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7f84c8a5e542fde16c2f7720cbcd477d4a457289\classes.dex" />
+    </item>
+
+</items>

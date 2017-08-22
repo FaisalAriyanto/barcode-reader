@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\NATIVE\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Faisal\\.android\\build-cache\\1a9761524b20b420a126239feebf404d78fc1a24\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\NATIVE\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Faisal\\.android\\build-cache\\1a9761524b20b420a126239feebf404d78fc1a24\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\NATIVE\\android-vision-master\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Faisal\\.android\\build-cache\\1a9761524b20b420a126239feebf404d78fc1a24\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
